@@ -8,7 +8,7 @@
         "url": "https://github.com/liberodark/redirect_ynh"
       },
       "high_quality": true,
-      "id": "redirect_plus",
+      "id": "redirectp",
       "lastUpdate": 1558125175,
       "level": 7,
       "maintained": true,
@@ -95,7 +95,7 @@
           "name": "alexAubin"
         },
         "multi_instance": true,
-        "name": "Redirect",
+        "name": "Redirectp",
         "packaging_format": 1,
         "requirements": {
           "yunohost": ">= 2.7.12"
