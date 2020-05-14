@@ -47,7 +47,7 @@
             {
                 "ask": {
                   "en": "Do you want to limit access by IP ?",
-                  "fr": "Voulez-vous limiter l'acces par IP ?"
+                  "fr": "Voulez-vous limiter l acces par IP ?"
                 },
                 "default": "false",
                 "name": "block_ip",
@@ -84,9 +84,9 @@
           "ar": "Create a redirection or a proxy to another path.",
           "en": "Create a redirection or a proxy to another path.",
           "es": "Create a redirection or a proxy to another path.",
-          "fr": "Créer une redirection ou un proxy vers un autre emplacement.",
+          "fr": "Creer une redirection ou un proxy vers un autre emplacement.",
           "nl": "Create a redirection or a proxy to another path.",
-          "oc": "Créer une redirection ou un proxy vers un autre emplacement."
+          "oc": "Creer une redirection ou un proxy vers un autre emplacement."
         },
         "id": "redirectp",
         "license": "AGPL-3.0-or-later",
