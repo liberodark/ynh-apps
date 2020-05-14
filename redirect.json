@@ -8,7 +8,7 @@
         "url": "https://github.com/liberodark/redirect_ynh"
       },
       "high_quality": true,
-      "id": "redirect",
+      "id": "redirect_plus",
       "lastUpdate": 1558125175,
       "level": 8,
       "maintained": true,
@@ -88,7 +88,7 @@
           "nl": "Create a redirection or a proxy to another path.",
           "oc": "Créer une redirection ou un proxy vers un autre emplacement."
         },
-        "id": "redirect",
+        "id": "redirect_plus",
         "license": "AGPL-3.0-or-later",
         "maintainer": {
           "email": "alex.aubin@mailoo.org",
