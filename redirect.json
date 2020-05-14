@@ -1,5 +1,5 @@
 {
-    "redirectp": {
+    "redirect": {
       "category": "publishing",
       "featured": false,
       "git": {
@@ -8,7 +8,7 @@
         "url": "https://github.com/liberodark/redirect_ynh"
       },
       "high_quality": true,
-      "id": "redirectp",
+      "id": "redirect",
       "lastUpdate": 1558125175,
       "level": 7,
       "maintained": true,
@@ -88,14 +88,14 @@
           "nl": "Create a redirection or a proxy to another path.",
           "oc": "Creer une redirection ou un proxy vers un autre emplacement."
         },
-        "id": "redirectp",
+        "id": "redirect",
         "license": "AGPL-3.0-or-later",
         "maintainer": {
           "email": "alex.aubin@mailoo.org",
           "name": "alexAubin"
         },
         "multi_instance": true,
-        "name": "Redirectp",
+        "name": "Redirect",
         "packaging_format": 1,
         "requirements": {
           "yunohost": ">= 2.7.12"
