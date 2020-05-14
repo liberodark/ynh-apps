@@ -1,5 +1,5 @@
 {
-    "redirect_plus": {
+    "redirectp": {
       "category": "publishing",
       "featured": false,
       "git": {
@@ -10,7 +10,7 @@
       "high_quality": true,
       "id": "redirect_plus",
       "lastUpdate": 1558125175,
-      "level": 8,
+      "level": 7,
       "maintained": true,
       "manifest": {
         "arguments": {
@@ -88,7 +88,7 @@
           "nl": "Create a redirection or a proxy to another path.",
           "oc": "Créer une redirection ou un proxy vers un autre emplacement."
         },
-        "id": "redirect_plus",
+        "id": "redirectp",
         "license": "AGPL-3.0-or-later",
         "maintainer": {
           "email": "alex.aubin@mailoo.org",
